@@ -1,0 +1,12 @@
+{
+  "raw_count": 338720,
+  "kept_count": 242610,
+  "classifier_consistency": 0.7162553071975708,
+  "generation_seconds": 7.039784535765648,
+  "vae_final_loss": 0.0014934062856776886,
+  "reconstruction_max_abs_error": NaN,
+  "memory_weight": 0.5,
+  "generation_mix": 0.75,
+  "train_memory_episode_loo": true,
+  "test_memory_retrieval_seconds": 3.0985076539218426
+}

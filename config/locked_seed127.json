@@ -1,0 +1,34 @@
+{
+  "data": {
+    "expected_samples": 100,
+    "split_seed": 123,
+    "train_validation_test": [80, 10, 10]
+  },
+  "model": {
+    "hidden": 64,
+    "layers": 4,
+    "dropout": 0.1,
+    "rag_topk": 8,
+    "memory_embedding_dim": 32,
+    "memory_latent_dim": 8,
+    "memory_topk": 32,
+    "memory_weight": 0.5,
+    "generation_mix": 0.75,
+    "source_latent_dim": 16,
+    "source_particles": 16,
+    "forward_samples": 8,
+    "forward_weight": 0.25
+  },
+  "optimization": {
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "source_epochs": 150,
+    "source_kl_weight": 0.02,
+    "source_kl_warmup": 30,
+    "source_free_bits": 0.02,
+    "generator_epochs": 35,
+    "generator_kl_weight": 0.01,
+    "generator_kl_warmup": 15
+  },
+  "seed": 127
+}

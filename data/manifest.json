@@ -1,0 +1,140 @@
+{
+  "format": "magi-final-snapshot-v1",
+  "scenarios": {
+    "cora_ml_IC": {
+      "components": 1,
+      "edges": 7981,
+      "file": "cora_ml_IC.npz",
+      "nodes": 2810,
+      "samples": 100,
+      "sha256": "8dbc57845f7d719d117bc73c4872b4292c004111a3a2e2bdc81dea2e0550a1ac",
+      "source_pkl_sha256": "65a0d0ecccc2b08cca8d529c412559cddaf0c1e0127c3069b74a4348e9965aa3"
+    },
+    "cora_ml_LT": {
+      "components": 1,
+      "edges": 7981,
+      "file": "cora_ml_LT.npz",
+      "nodes": 2810,
+      "samples": 100,
+      "sha256": "2fab3aac5076f72653268b88438a641e21bb9e8c2fffbdbec885c19fe4e945a1",
+      "source_pkl_sha256": "cb4ed54e6f8162a96d00e19460a00ef3de198dd92b8070c8b5e1facb99854137"
+    },
+    "cora_ml_USE": {
+      "components": 1,
+      "edges": 7981,
+      "file": "cora_ml_USE.npz",
+      "nodes": 2810,
+      "samples": 100,
+      "sha256": "f2caed8ab8bc62b9563dcdc9a24d65b004cf1f76c1d290fd66c6fd57b5bdf4ef",
+      "source_pkl_sha256": "70dd8a5586f6b1d3d7fabe6171e0cad8f9bf9dd9ca6f5198d55ad522081a5a8e"
+    },
+    "dolphins_IC": {
+      "components": 1,
+      "edges": 159,
+      "file": "dolphins_IC.npz",
+      "nodes": 62,
+      "samples": 100,
+      "sha256": "e3ffaa3ab783ed132e812ecf23e1ea74925536e44ad415d6a45854693ceac0b3",
+      "source_pkl_sha256": "78235dd1407251f1fe756355366be0526e232f94fae757650efd85552233eed7"
+    },
+    "dolphins_LT": {
+      "components": 1,
+      "edges": 159,
+      "file": "dolphins_LT.npz",
+      "nodes": 62,
+      "samples": 100,
+      "sha256": "c156f4f0b4452ccdc8f952de1921bb5f79cdd43768086a5c6583256b539f1943",
+      "source_pkl_sha256": "9cced1127655137acbfcf82e24c105df7aecf3503c7cf9d75162717ee56eb0ce"
+    },
+    "dolphins_USE": {
+      "components": 1,
+      "edges": 159,
+      "file": "dolphins_USE.npz",
+      "nodes": 62,
+      "samples": 100,
+      "sha256": "88a2dd8f15682aa4fb4f0217cb05cb7b7186e4428f565bcd750b6d6d19310261",
+      "source_pkl_sha256": "93fa1d9f88b88189efc01d8abdaba3d619825d5ec37ca89ad619bf7060386356"
+    },
+    "facebook_company_IC": {
+      "components": 1,
+      "edges": 52126,
+      "file": "facebook_company_IC.npz",
+      "nodes": 14113,
+      "samples": 100,
+      "sha256": "9a07b61fcfc4b52f9e594d82fef03866b366688cbeb5338d6b5e7a90c82796d1",
+      "source_pkl_sha256": "820a1647082de3c718297ca886569c942a46d772d1d05ee3e347b5e03e71e9ca"
+    },
+    "facebook_company_LT": {
+      "components": 1,
+      "edges": 52126,
+      "file": "facebook_company_LT.npz",
+      "nodes": 14113,
+      "samples": 100,
+      "sha256": "b615a0e72115d118323d746fb1f1e8a5adad1008ed4f72bad032e8f82de3955c",
+      "source_pkl_sha256": "4182233a793b70a33d493c9f1f00ab0c682325fc50af0b7438901891d3a6b56b"
+    },
+    "facebook_company_USE": {
+      "components": 1,
+      "edges": 52126,
+      "file": "facebook_company_USE.npz",
+      "nodes": 14113,
+      "samples": 100,
+      "sha256": "e201bc184bebf1da785ca1f0d7034ad216c25a6839edc605c21212c79c7a1f06",
+      "source_pkl_sha256": "2f2ea1093e5d00c495b0a276c402e02c7044f11e6ecac6cb3f5f5354be896461"
+    },
+    "netscience_IC": {
+      "components": 396,
+      "edges": 2742,
+      "file": "netscience_IC.npz",
+      "nodes": 1589,
+      "samples": 100,
+      "sha256": "cb06eda96c42974843ebf92c63bc14f4ac15560f3f7bc284bde865d46c6a0651",
+      "source_pkl_sha256": "0e71ab3a5edfe4cbf6cdb8c41a669acb16f9e52f1205c41a017883db8c7ed18a"
+    },
+    "netscience_LT": {
+      "components": 396,
+      "edges": 2742,
+      "file": "netscience_LT.npz",
+      "nodes": 1589,
+      "samples": 100,
+      "sha256": "ff1ef08db0eb3f01332a5c30f97c32cfebb726c72fb6f11b0dd5cd121acb4c34",
+      "source_pkl_sha256": "2b810e71cb06e81e8d95879dd3a3fa255222363bdcde97b728ae4bd89bf7ed3d"
+    },
+    "netscience_USE": {
+      "components": 396,
+      "edges": 2742,
+      "file": "netscience_USE.npz",
+      "nodes": 1589,
+      "samples": 100,
+      "sha256": "3c7bc16e818910a3c398f09be3022bdf8bd12fd881490e9eaef345b3769ae4db",
+      "source_pkl_sha256": "7a6f8653cfb6c5fd4cd1531d819699033f8a3e81044927742c93d6429e2530e3"
+    },
+    "power_grid_IC": {
+      "components": 1,
+      "edges": 6594,
+      "file": "power_grid_IC.npz",
+      "nodes": 4941,
+      "samples": 100,
+      "sha256": "35de516b25f718b5b6d5b66adf94a2632260998fc2650dfbc72f41a570ac7510",
+      "source_pkl_sha256": "260b2d0ec964554243c0ac68c580b23f5956b9378b83c98c326190193cf68a3d"
+    },
+    "power_grid_LT": {
+      "components": 1,
+      "edges": 6594,
+      "file": "power_grid_LT.npz",
+      "nodes": 4941,
+      "samples": 100,
+      "sha256": "df64507899fb5adf7f22fcb6a7e8e098e71bde840038da7098b471d82459cc54",
+      "source_pkl_sha256": "6ebdb5ebde5b7b4f09e7f6dc1593af0e84923437c85a78cce0df838d53033740"
+    },
+    "power_grid_USE": {
+      "components": 1,
+      "edges": 6594,
+      "file": "power_grid_USE.npz",
+      "nodes": 4941,
+      "samples": 100,
+      "sha256": "625db20e18fbb0837ff40b02ed9288e93803f88d150e841739a70babd83a2ace",
+      "source_pkl_sha256": "03baf795ac9f388438751860c16f54104d3b6a200c259f70bcbc7b4a2eace12e"
+    }
+  }
+}
